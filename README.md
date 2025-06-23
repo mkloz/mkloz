@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
-<p align="center" style="width: 600px;">
+<p align="center" style="width: 600px; max-width:600px" width="600px">
   <a href="https://mkloz.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/Visit%20Portfolio-mkloz.com-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black" alt="Portfolio" />
   </a>
