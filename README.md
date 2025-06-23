@@ -9,7 +9,7 @@
   <a href="https://mkloz.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/Visit%20Portfolio-mkloz.com-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="mailto:micha21cloz@gmail.com"><img src="https://img.shields.io/badge/Email-micha21cloz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:micha21cloz@gmail.com"><img src="https://img.shields.io/badge/Email-micha21cloz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br/>
   <a href="https://wa.me/380994577468" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://linkedin.com/in/mkloz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-mkloz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mkl0z.t.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@mkl0z-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
