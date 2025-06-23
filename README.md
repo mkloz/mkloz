@@ -101,10 +101,14 @@
   <tbody>
     <!-- UEvent -->
     <tr>
-      <td rowspan="2" style="vertical-align:top;">
-        <a href="https://github.com/mkloz/uevent-frontend" height="24" style="vertical-align:middle; display:flex; align-items:center; margin-right:6px;">
-          <img src="https://raw.githubusercontent.com/mkloz/uevent-frontend/main/public/logo.svg" style="vertical-align:middle; margin-right:6px; height:1.5rem;" />
-          <b>UEvent</b>
+      <td rowspan="2" style="vertical-align:top; text-align:center;">
+        <a href="https://github.com/mkloz/uevent-frontend" style="display:block;">
+          <div style="width:100%; display:block;">
+            <img src="https://raw.githubusercontent.com/mkloz/uevent-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block; transform: scale(1.20);" />
+          </div>
+          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+            UEvent
+          </div>
         </a>
       </td>
       <td>Comprehensive event sharing platform API with ticket management, payments, and real-time notifications.</td>
@@ -129,10 +133,14 @@
     </tr>
     <!-- Webster -->
     <tr>
-      <td rowspan="2" style="vertical-align:top;">
-        <a href="https://github.com/mkloz/webster-frontend" style="display:flex; align-items:center; margin-right:6px;">
-          <img src="https://raw.githubusercontent.com/mkloz/webster-frontend/main/public/logo.svg"  style="vertical-align:middle; margin-right:6px; height:1.2rem;" />
-          <b>Webster</b>
+      <td rowspan="2" style="vertical-align:top; text-align:center;">
+        <a href="https://github.com/mkloz/webster-frontend" style="display:block;">
+          <div style="width:100%; display:block;">
+            <img src="https://raw.githubusercontent.com/mkloz/webster-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block;" />
+          </div>
+          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+            Webster
+          </div>
         </a>
       </td>
       <td>Design tool platform with canvas-based editor that provides simple and easy to use features.</td>
@@ -157,10 +165,14 @@
     </tr>
     <!-- Chronos -->
     <tr>
-      <td rowspan="2" style="vertical-align:top;">
-        <a href="https://github.com/mkloz/chronos-frontend" style="display:flex; align-items:center; margin-right:6px;">
-          <img src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="vertical-align:middle; margin-right:6px; height:1rem;" />
-          <b>Chronos</b>
+      <td rowspan="2" style="vertical-align:top; text-align:center;">
+        <a href="https://github.com/mkloz/chronos-frontend" style="display:block;">
+          <div style="width:100%; display:block;">
+            <img src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block; transform: scale(0.85);" />
+          </div>
+          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+            Chronos
+          </div>
         </a>
       </td>
       <td>Modern, intuitive calendar management system with seamless event scheduling and collaboration features.</td>
