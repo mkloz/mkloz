@@ -167,8 +167,8 @@
     <tr>
       <td rowspan="2" style="vertical-align:top; text-align:center;">
         <a href="https://github.com/mkloz/chronos-frontend" style="display:block;">
-          <div style="width:100%; display:block;">
-            <img src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="width:85%; max-width:60px; margin:0 auto; display:block; padding-top:7px" />
+          <div style="width:100%; display:flex; justify-content:center; align-items:center;">
+            <img align="center" src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="width:80%; max-width:60px; margin:0 auto; display:block; padding-top:7px" />
           </div>
           <div align="center" style="margin-top:0.5em; font-weight:bold; font-size:1.1em;">
             Chronos
