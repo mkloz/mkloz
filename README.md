@@ -103,10 +103,10 @@
     <tr>
       <td rowspan="2" style="vertical-align:top; text-align:center;">
         <a href="https://github.com/mkloz/uevent-frontend" style="display:block;">
-          <div style="width:100%; display:block;">
-            <img src="https://raw.githubusercontent.com/mkloz/uevent-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block; transform: scale(1.20);" />
+          <div style="width:120%; display:block; margin-left:-10%;">
+            <img src="https://raw.githubusercontent.com/mkloz/uevent-frontend/main/public/logo.svg" style="width:100%; max-width:100px; margin:0 auto; display:block;" />
           </div>
-          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+          <div align="center" style="margin-top:0.5em; font-weight:bold; font-size:1.1em;">
             UEvent
           </div>
         </a>
@@ -138,7 +138,7 @@
           <div style="width:100%; display:block;">
             <img src="https://raw.githubusercontent.com/mkloz/webster-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block;" />
           </div>
-          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+          <div align="center" style="margin-top:0.5em; font-weight:bold; font-size:1.1em;">
             Webster
           </div>
         </a>
@@ -168,9 +168,9 @@
       <td rowspan="2" style="vertical-align:top; text-align:center;">
         <a href="https://github.com/mkloz/chronos-frontend" style="display:block;">
           <div style="width:100%; display:block;">
-            <img src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="width:100%; max-width:80px; margin:0 auto; display:block; transform: scale(0.85);" />
+            <img src="https://raw.githubusercontent.com/mkloz/chronos-frontend/main/public/logo.svg" style="width:85%; max-width:60px; margin:0 auto; display:block; padding-top:7px" />
           </div>
-          <div style="margin-top:0.5em; font-weight:bold; font-size:1.1em; text-align:center;">
+          <div align="center" style="margin-top:0.5em; font-weight:bold; font-size:1.1em;">
             Chronos
           </div>
         </a>
